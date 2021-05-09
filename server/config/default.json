@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://jayeshm7:chessminton@cluster0.ebjrf.mongodb.net/mern_book_app?retryWrites=true&w=majority"
+  }
