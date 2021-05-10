@@ -70,11 +70,11 @@
 
 /* BookList Styles */
 .list {
-  display: grid;
+  /* display: grid; */
   margin: 20px 0 50px 0;
-  grid-template-columns: repeat(4, 1fr);
+  /* grid-template-columns: repeat(4, 1fr);
   grid-auto-rows: 1fr;
-  grid-gap: 2em;
+  grid-gap: 2em; */
 }
 
 .card-container {
@@ -90,7 +90,7 @@
 }
 
 .desc {
-  height: 130px;
+  height: 180px;
   padding: 10px;
 }
 
