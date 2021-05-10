@@ -85,6 +85,11 @@
   overflow: hidden;
 }
 
+.card-box {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .book-card {
   width: 250px;
 }
