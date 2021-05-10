@@ -6,7 +6,7 @@ const BookCard = (props) => {
     const  book  = props.book;
 
     return(
-        <div class="col-lg-3 col-md-6 mx-auto">
+        <div class="col-lg-3 col-md-6 mx-auto my-auto">
             <div className="card-container">
                 {/* <img src="https://images-na.ssl-images-amazon.com/images/I/51rWU-+Ed1L._SY344_BO1,204,203,200_.jpg" alt="" /> */}
                 <img src={book.book_img} alt="" className="book-card" />
