@@ -1,4 +1,4 @@
-# Description:
+# Description
 A Book Record App built using Javascript in which users are provided with the following features:
 
 - Add a new book in the database.
@@ -7,16 +7,16 @@ A Book Record App built using Javascript in which users are provided with the fo
 - Update details of a book.
 - Delete a book.
 
-# Live Preview:
+# Live Preview
 [Book Record App](https://book-record-website.herokuapp.com/)
 
-# Technologies Used:
+# Technologies Used
 
 - Node JS / Express JS
 - React JS
 - MongoDB / Mongoose
 
-# Backend Packages Used:
+# Backend Packages Used
 
 - Express JS
 - Mongoose
@@ -26,7 +26,7 @@ A Book Record App built using Javascript in which users are provided with the fo
 - dotenv
 - path
 
-# Frontend Packages Used:
+# Frontend Packages Used
 
 - axios
 - react
