@@ -20,7 +20,7 @@ A Book Record App built using Javascript in which users are provided with the fo
 
 - Express JS
 - Mongoose
-- Nodemon
+- nodemon
 - config
 - cors
 - dotenv
