@@ -1,4 +1,4 @@
-{
+ {
     "mongoURI":
       "mongodb+srv://<username>:<password>@cluster0.ebjrf.mongodb.net/mern_book_app?retryWrites=true&w=majority"
   }
