@@ -8,6 +8,7 @@ A Book Record App built using Javascript in which users are provided with the fo
 - Delete a book.
 
 # Live Preview
+
 [Book Record App](https://book-record-website.herokuapp.com/)
 
 # Technologies Used
