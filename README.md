@@ -16,6 +16,7 @@ A Book Record App built using Javascript in which users are provided with the fo
 - Node JS / Express JS
 - React JS
 - MongoDB / Mongoose
+- REST API Framework
 
 # Backend Packages Used
 
